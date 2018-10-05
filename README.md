@@ -28,8 +28,8 @@ This presentation includes the following outline
 
 ## Usage
 
-* `` : This file contains the presentation
-* `` : This file contains the learning resources
+* `DS_Interview_Tips.ipynb`  : This file contains the presentation
+* `Learning_resources.ipynb` : This file contains the learning resources
 * Download the presentation form [here]()
 
 ## Special Thanks

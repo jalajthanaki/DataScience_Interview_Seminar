@@ -1,6 +1,6 @@
 # Unriddle Data Science Interview Process
 
-This is the presentation on - What are the key points one should consider if they will be appearing in Data Science jobs.
+This is the presentation on - What are the key points one should consider if they will be appearing in Data Science job interviews.
 
 ## Outline
 This presentation includes the following outline

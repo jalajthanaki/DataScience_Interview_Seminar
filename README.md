@@ -30,7 +30,7 @@ This presentation includes the following outline
 
 * `DS_Interview_Tips.ipynb`  : This file contains the presentation
 * `Learning_resources.ipynb` : This file contains the learning resources
-* Download the presentation form [here]()
+* Download the presentation form [here](http://nbviewer.jupyter.org/format/slides/github/jalajthanaki/DataScience_Interview_Seminar/blob/master/DS_Interview_Tips.ipynb?cache=True#/)
 
 ## Special Thanks
 
